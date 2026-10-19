@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73615078024",
+    "project_id": "medical-extraction-app",
+    "storage_bucket": "medical-extraction-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73615078024:android:92255306b94433c7d7a53d",
+        "android_client_info": {
+          "package_name": "com.example.medical_extraction_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx7bAsgLnuF-23p4xV5z4wgQu8SKUlDzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
